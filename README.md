@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript Projects**
 
-- 🌱 I’m currently learning **Javascript(from Shradha Khapra's Youtube playlist)**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking for role **Frontend Developer**
 
