@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoomansuri18" alt="arzoomansuri18" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on **Advance JavaScript Projects**
 
 - 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking for role **Frontend Developer**
 
-- 🤝 Ask me about **HTML, CSS**
+- 🤝 Ask me about **HTML, CSS, JS**
 
 - 💬 My hobbies are **Listening to music, watching kdramas**
 
