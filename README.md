@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Advance JavaScript Projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Advance JS**
 
 - 👯 I’m looking for role **Frontend Developer**
 
